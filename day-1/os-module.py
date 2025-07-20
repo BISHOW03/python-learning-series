@@ -5,7 +5,7 @@ from datetime import datetime
 
 # print(os.getcwd())          #prints current working directory
 
-# os.chdir('/Users/Lenovo/OneDrive/Desktop/vscode/github-expand')    #change directory to this 
+# os.chdir('/Users/Lenovo/OneDrive/Desktop/vscode/python-learning-series')    #change directory to this 
 
 # print(os.getcwd())   #now print changed directory
 
@@ -29,7 +29,7 @@ from datetime import datetime
 # mod_time = os.stat('demo.txt').st_mtime   #time when file created
 # print(datetime.fromtimestamp(mod_time))   #human readable format
 
-# for dirpath , dirnames, filenames in  os.walk('/Users/Lenovo/OneDrive/Desktop/vscode/github-expand'):   # it's like a tree it prints all current path , dir name and files name all of
+# for dirpath , dirnames, filenames in  os.walk('/Users/Lenovo/OneDrive/Desktop/vscode/python-learning-series'):   # it's like a tree it prints all current path , dir name and files name all of
 #     print('Current path:' , dirpath)
 #     print('Directories:', dirnames)
 #     print('files:', filenames)
