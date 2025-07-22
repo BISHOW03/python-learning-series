@@ -5,3 +5,6 @@
 
 ### day-2
 - random-module learned
+
+### day-3
+- csv-module learned
