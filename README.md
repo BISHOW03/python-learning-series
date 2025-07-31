@@ -8,3 +8,6 @@
 
 ### day-3
 - csv-module learned
+
+### day-4
+- string-methods learned
